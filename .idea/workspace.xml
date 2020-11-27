@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2e2fa43-ad72-4c10-83d5-f2bdc810a1db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\nfrolov\sdk\go1.15.4" />
+  <component name="ProjectId" id="1kC0qC6ylLSKWZNvYhYMmPVa6sX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nfrolov\go\src\awesomeProject\stepik_course\1_5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build 1_9_9.go">
+    <configuration name="go build 1_9_5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_9/1_9_5.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1_9_6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_9/1_9_6.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1_9_7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_9/1_9_7.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1_9_8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_9/1_9_8.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 1_9_9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_9/1_9_9.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 1_9_9.go" />
+        <item itemvalue="Go Build.go build 1_9_8.go" />
+        <item itemvalue="Go Build.go build 1_9_7.go" />
+        <item itemvalue="Go Build.go build 1_9_6.go" />
+        <item itemvalue="Go Build.go build 1_9_5.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="178" key="#GOPATH" timestamp="1605189478413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="178" key="#GOPATH/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605189478413" />
+    <state width="1236" height="282" key="GridCell.Tab.0.bottom" timestamp="1606231803107">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
+    <state width="1236" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
+    <state width="1236" height="282" key="GridCell.Tab.0.center" timestamp="1606231803107">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
+    <state width="1236" height="282" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
+    <state width="1236" height="282" key="GridCell.Tab.0.left" timestamp="1606231803107">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
+    <state width="1236" height="282" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
+    <state width="1236" height="282" key="GridCell.Tab.0.right" timestamp="1606231803107">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
+    <state width="1236" height="282" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
+  </component>
+</project>
