@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,20 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e2fa43-ad72-4c10-83d5-f2bdc810a1db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_10.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_7.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_8.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_10/1_10_9.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_11/1_11_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_12/1_12_13.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_12/1_12_14.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_12/1_12_15.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_12/1_12_16.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_course/1_12/1_12_4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learngolang/incapsulation/calendar/calendar.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learngolang/incapsulation/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.6" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -60,70 +51,77 @@
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/stepik_course/1_12" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learngolang/middle/datafile" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikita\go\src\go_course\learngolang\middle\datafile" />
       <recent name="$PROJECT_DIR$/stepik_course/1_12" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikita\go\src\go_course\learngolang\middle" />
       <recent name="C:\Users\nfrolov\go\src\awesomeProject\stepik_course\1_5" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 1_12_16.go">
+  <component name="RunManager" selected="Go Build.go build go_course/learngolang/incapsulation">
     <configuration name="go build 1_12_13.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_13.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_13.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 1_12_14.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_14.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_14.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 1_12_15.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_15.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_15.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build 1_12_16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_16.go" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_16.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1_12_4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build go_course/learngolang/incapsulation" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/stepik_course/1_12/1_12_4.go" />
+      <kind value="PACKAGE" />
+      <package value="go_course/learngolang/incapsulation" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/learngolang/incapsulation/main.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build go_course/learngolang/incapsulation" />
         <item itemvalue="Go Build.go build 1_12_16.go" />
         <item itemvalue="Go Build.go build 1_12_15.go" />
         <item itemvalue="Go Build.go build 1_12_14.go" />
         <item itemvalue="Go Build.go build 1_12_13.go" />
-        <item itemvalue="Go Build.go build 1_12_4.go" />
       </list>
     </recent_temporary>
   </component>
@@ -143,64 +141,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="658" y="180" key="#GOPATH" timestamp="1608027680333">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="658" y="180" key="#GOPATH/0.0.1680.1050@0.0.1680.1050" timestamp="1608027680333" />
-    <state x="752" y="178" key="#GOPATH/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605189478413" />
-    <state x="640" y="459" key="#GOROOT" timestamp="1607684749586">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="640" y="459" key="#GOROOT/0.0.1680.1050@0.0.1680.1050" timestamp="1607684749586" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1608747527407">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050/-2560.-431.2560.1440@0.0.1680.1050" timestamp="1608747527407" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077511" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
-    <state width="1236" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1608747527406">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050/-2560.-431.2560.1440@0.0.1680.1050" timestamp="1608747527406" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077510" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
-    <state width="1236" height="282" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1608747527406">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050/-2560.-431.2560.1440@0.0.1680.1050" timestamp="1608747527406" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077510" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
-    <state width="1236" height="282" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1608747527407">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050/-2560.-431.2560.1440@0.0.1680.1050" timestamp="1608747527407" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077510" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1605791869051" />
-    <state width="1236" height="282" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1606231803107" />
-    <state width="1638" height="364" key="GridCell.Tab.1.bottom" timestamp="1607962077506">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077506" />
-    <state width="1638" height="364" key="GridCell.Tab.1.center" timestamp="1607962077505">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077505" />
-    <state width="1638" height="364" key="GridCell.Tab.1.left" timestamp="1607962077505">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077505" />
-    <state width="1638" height="364" key="GridCell.Tab.1.right" timestamp="1607962077506">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="364" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607962077506" />
-    <state x="349" y="161" key="SettingsEditor" timestamp="1608027744743">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="349" y="161" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1608027744743" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new files" />
+    <MESSAGE value="learn maps" />
+    <MESSAGE value="learn struct and type" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn struct and type" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
